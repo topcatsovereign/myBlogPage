@@ -1,0 +1,21 @@
+body{
+    background-color:beige;
+}
+
+#head{
+    background-color: darkgray;
+    overflow: hidden;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;    
+}
+
+img{
+    padding:10px 40px;
+}

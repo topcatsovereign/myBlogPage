@@ -1,0 +1,39 @@
+body{
+    background-color:beige;
+    margin: 0;
+    padding: 0;
+}
+
+#head{
+    background-color: black;
+    overflow: overlay;
+    color: white;
+}
+
+#head h1{
+    padding-left: 20px;
+}
+
+#head small{
+    padding-left: 20px;
+}
+
+small{
+    color: red;
+}
+
+#know{
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;   
+}
+
+img{
+    padding:10px 40px;
+}
